@@ -50,19 +50,19 @@ app.layout = html.Div(children=[
 
     html.Br(),
     html.Label('Initial Investment Amount: '),
-    dcc.Input(type='number', id='initial-investments', value=237000),
+    dcc.Input(type='number', id='initial-investments', value=100000),
 
     html.Br(),
     html.Label('Initial Savings Amount: '),
-    dcc.Input(type='number', id='initial-savings', value=20000),
+    dcc.Input(type='number', id='initial-savings', value=10000),
 
     html.Br(),
     html.Label('Initial Age: '),
-    dcc.Input(type='number', id='initial-age', value=25),
+    dcc.Input(type='number', id='initial-age', value=20),
 
     html.Br(),
     html.Label('Pre Tax Initial Income: '),
-    dcc.Input(type='number', id='initial-income', value=314000),
+    dcc.Input(type='number', id='initial-income', value=100000),
 ])
 
 
