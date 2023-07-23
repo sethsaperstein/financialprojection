@@ -1,4 +1,4 @@
-#!/Users/sethsaperstein/src/financialprojection/venv/bin/python3.10
+#!/Users/sethsaps/src/financialprojection/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
