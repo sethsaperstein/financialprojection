@@ -1,0 +1,40 @@
+{
+  "tax_rates": [
+    {
+      "percent": 1,
+      "up_to": 10099
+    },
+    {
+      "percent": 2,
+      "up_to": 23942
+    },
+    {
+      "percent": 4,
+      "up_to": 37788
+    },
+    {
+      "percent": 6,
+      "up_to": 52455
+    },
+    {
+      "percent": 8,
+      "up_to": 66295
+    },
+    {
+      "percent": 9.3,
+      "up_to": 338639
+    },
+    {
+      "percent": 10.3,
+      "up_to": 406364
+    },
+    {
+      "percent": 11.3,
+      "up_to": 677275
+    },
+    {
+      "percent": 12.3,
+      "up_to": 10000000
+    }
+  ]
+}

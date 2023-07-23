@@ -1,0 +1,16 @@
+{
+  "tax_rates": [
+    {
+      "percent": 10,
+      "up_to": 10000
+    },
+    {
+      "percent": 20,
+      "up_to": 60000
+    },
+    {
+      "percent": 50,
+      "up_to": 100000
+    }
+  ]
+}
